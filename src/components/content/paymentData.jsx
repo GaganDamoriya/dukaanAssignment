@@ -1,0 +1,92 @@
+export const paymentData = [
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+  {
+    id: "#28941",
+    date: "7 July,2023",
+    amount: "$ 209.75",
+    paymentfee: "$2.2",
+  },
+];
